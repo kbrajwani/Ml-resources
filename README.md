@@ -4,12 +4,12 @@
 For getting understanding of core concept of machine learning with visualization https://distill.pub/
 
 * ### Blogs:
-Visualizing machine learning http://jalammar.github.io/
+Visualizing machine learning http://jalammar.github.io/ <br>
 https://blog.tensorflow.org/
 For getting understanding of core concept of machine learning https://medium.com/@jonathan_hui
 
 * ### cv:
-https://www.pyimagesearch.com/
+https://www.pyimagesearch.com/ <br>
 https://www.learnopencv.com/ (https://github.com/spmallick/learnopencv)
 
 
