@@ -23,6 +23,9 @@
   - https://lexfridman.com/ (https://www.linkedin.com/in/lexfridman)
   - https://ruder.io/
 
+* ### Github repo:  
+  - https://github.com/RubensZimbres/Repo-2017/
+
 * ### Kagglers:
   - https://www.kaggle.com/abhishek (https://www.youtube.com/AbhishekThakurAbhi)
   - https://www.kaggle.com/pheadrus (https://github.com/Rajneesh-Tiwari )
