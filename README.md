@@ -7,6 +7,10 @@
   - Visualizing machine learning http://jalammar.github.io/ 
   - https://blog.tensorflow.org/
   - For getting understanding of core concept of machine learning https://medium.com/@jonathan_hui
+  - https://www.dlology.com/blog/
+  - https://www.freecodecamp.org/news/tag/deep-learning/
+  - https://hackernoon.com/tagged/deep-learning
+  - https://machinelearningmastery.com/blog/
 
 * ### cv:
   - https://www.pyimagesearch.com/ 
